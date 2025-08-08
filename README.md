@@ -22,17 +22,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="55" alt="unity logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
-  <img width="13" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="55" alt="go logo"  />
 </div>
 
