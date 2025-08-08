@@ -1,0 +1,15 @@
+name: Update README with Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Оновлювати кожні 12 годин
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.PAT_1 }}
