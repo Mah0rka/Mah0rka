@@ -1,5 +1,7 @@
 <h2 align="center">Vladyslav Kovaliov</h2>
 
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
   <img width="16" />
@@ -43,7 +45,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="55" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="55" alt="sass logo"  />
   <img width="16" />
