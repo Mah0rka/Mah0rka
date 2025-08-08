@@ -4,17 +4,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="55" alt="dot-net logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="55" alt="sequelize logo"  />
 </div>
 
@@ -22,17 +22,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="55" alt="unity logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="55" alt="go logo"  />
 </div>
 
@@ -40,17 +40,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=powershell" height="55" alt="powershell logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="55" alt="sass logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
-  <img width="16" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
 </div>
 
